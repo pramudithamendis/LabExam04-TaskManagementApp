@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabExam04-TaskManagementApp</string>
+    <string name="deleteTask">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add Task</string>
+    <string name="taskApp">Task app</string>
+    <string name="ToEditTextHere">To edit text here</string>
+</resources>
